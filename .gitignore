@@ -1,0 +1,5 @@
+/dist/*
+/dist*
+osol.svg
+osol.png
+.~lock.osol.csv#
